@@ -2,10 +2,11 @@
 
 **Effective date:** September 12, 2026
 
-**Provider:** [LEGAL ENTITY NAME OR SOLE PROPRIETOR]  
-**Address:** [LEGAL ADDRESS]  
-**Contact:** [EMAIL, e.g. support@…]  
-**App:** Saya (iOS / Android)
+**Provider:** SOLE PROPRIETOR  
+**Address:** KAZAKHSTAN, AKTYUBINSKAYA region, KHOBDINSKIY district, TENTEKKARA v, ISY I
+ESKENDIRA KOPZHASAROVYKH st, house 65  
+**Contact:** rzhaishylyk@gmail.com  
+**App:** Saya iOS
 
 These Terms govern your use of Saya. By installing or using the App, you agree to them. If you do not agree, do not use the App.
 
@@ -27,7 +28,7 @@ The App is for adults with legal capacity to accept these Terms in their jurisdi
 
 ## 3. Accounts
 
-Registration may use Google or Sign in with Apple. You are responsible for your account and device access. You may delete your account in-app (where available) or by contacting **[EMAIL]**. We may suspend or terminate accounts for violations, abuse, security risk, or legal requirements.
+Registration may use Google or Sign in with Apple. You are responsible for your account and device access. You may delete your account in-app (where available) or by contacting **rzhaishylyk@gmail.com**. We may suspend or terminate accounts for violations, abuse, security risk, or legal requirements.
 
 ---
 
@@ -110,19 +111,13 @@ We may update these Terms at this URL. Continued use after changes constitutes a
 
 ## 15. Governing law
 
-These Terms are governed by the laws of **[COUNTRY/REGION, e.g. Republic of Kazakhstan]**, without conflict-of-law rules, except where mandatory consumer protections (including in the EU) require otherwise.
+These Terms are governed by the laws of **Kazakhstan**, without conflict-of-law rules, except where mandatory consumer protections (including in the EU) require otherwise.
 
 ---
 
 ## 16. Contact
 
-**[EMAIL]** — **[LEGAL ENTITY]**, **[ADDRESS]**
+**rzhaishylyk@gmail.com** — **SOLO PROPRIETOR**, **KAZAKHSTAN, AKTYUBINSKAYA region, KHOBDINSKIY district, TENTEKKARA v, ISY I
+ESKENDIRA KOPZHASAROVYKH st, house 65**
 
----
 
-## Optional — Apple Standard EULA link
-
-If you use Apple’s Standard EULA in App Store Connect, also put in the app description:
-
-Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/  
-Privacy Policy: [YOUR PRIVACY POLICY URL]
