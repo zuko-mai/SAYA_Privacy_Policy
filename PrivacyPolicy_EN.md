@@ -2,10 +2,11 @@
 
 **Effective date:** September 12, 2026
 
-**Controller / Operator:** [LEGAL ENTITY NAME OR SOLE PROPRIETOR]  
-**Address:** [LEGAL ADDRESS]  
-**Privacy contact:** [EMAIL, e.g. privacy@…]  
-**App:** Saya (iOS / Android)
+**Controller / Operator:** Individual Entrepreneur Zhaishylyk Rakhat
+**Address:** KAZAKHSTAN, AKTYUBINSKAYA region, KHOBDINSKIY district, TENTEKKARA v, ISY I
+ESKENDIRA KOPZHASAROVYKH st, house 65  
+**Privacy contact:** rzhaishylyk@gmail.com
+**App:** Saya iOS
 
 This Privacy Policy explains what data we collect when you use Saya (“App”), why we collect it, and your rights. By using the App, you acknowledge this Policy.
 
@@ -88,7 +89,7 @@ Account data is kept while the account is active and for a reasonable period aft
 
 ## 6. Your rights
 
-Subject to applicable law, you may access, correct, delete, or restrict processing of your data, withdraw consents (e.g. notifications), and lodge a complaint with a supervisory authority. Contact **[EMAIL]**. You can also delete your account in-app where available.
+Subject to applicable law, you may access, correct, delete, or restrict processing of your data, withdraw consents (e.g. notifications), and lodge a complaint with a supervisory authority. Contact **[rzhaishylyk@gmail.com]**. You can also delete your account in-app where available.
 
 ---
 
@@ -112,4 +113,5 @@ We may update this Policy at this URL. The effective date above will change when
 
 ## 10. Contact
 
-**[EMAIL]** — **[LEGAL ENTITY]**, **[ADDRESS]**
+**[rzhaishylyk@gmail.com]** — **[Sole Proprietor]**, **[KAZAKHSTAN, AKTYUBINSKAYA region, KHOBDINSKIY district, TENTEKKARA v, ISY I
+ESKENDIRA KOPZHASAROVYKH st, house 65  ]**
