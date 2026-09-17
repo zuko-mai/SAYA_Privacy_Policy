@@ -89,7 +89,7 @@ Account data is kept while the account is active and for a reasonable period aft
 
 ## 6. Your rights
 
-Subject to applicable law, you may access, correct, delete, or restrict processing of your data, withdraw consents (e.g. notifications), and lodge a complaint with a supervisory authority. Contact **[rzhaishylyk@gmail.com]**. You can also delete your account in-app where available.
+Subject to applicable law, you may access, correct, delete, or restrict processing of your data, withdraw consents (e.g. notifications), and lodge a complaint with a supervisory authority. Contact **rzhaishylyk@gmail.com**. You can also delete your account in-app where available.
 
 ---
 
@@ -113,5 +113,5 @@ We may update this Policy at this URL. The effective date above will change when
 
 ## 10. Contact
 
-**[rzhaishylyk@gmail.com]** — **[Sole Proprietor]**, **[KAZAKHSTAN, AKTYUBINSKAYA region, KHOBDINSKIY district, TENTEKKARA v, ISY I
-ESKENDIRA KOPZHASAROVYKH st, house 65  ]**
+**rzhaishylyk@gmail.com** — **Sole Proprietor**, **KAZAKHSTAN, AKTYUBINSKAYA region, KHOBDINSKIY district, TENTEKKARA v, ISY I
+ESKENDIRA KOPZHASAROVYKH st, house 65**
